@@ -6,7 +6,7 @@ const Login = () => {
     <View style={styles.container}>
       <Image
         style={styles.image}
-        source={require('../assets/logo_1-removebg-preview.webp')}
+        source={require('../assets/logos/logo_1-removebg-preview.webp')}
       />
       <LoginForm />
     </View>
